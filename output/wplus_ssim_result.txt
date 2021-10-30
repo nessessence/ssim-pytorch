@@ -1,0 +1,1 @@
+total avg ssim score: 0.8271293044090271

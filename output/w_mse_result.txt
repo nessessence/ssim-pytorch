@@ -1,0 +1,1 @@
+total avg mse score: 0.015772868431939018
